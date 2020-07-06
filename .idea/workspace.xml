@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bad3dd79-04de-405e-9e09-216e123d58f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eJQGv7NdIaJ65Il3ljrMdkN9cx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="APITests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MehreenHamraz\huger\HSTest" />
+      <recent name="C:\Users\MehreenHamraz\huger\HSTest\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/MehreenHamraz/huger/HSTest/testng.xml (1)">
+    <configuration name="C:/Users/MehreenHamraz/huger/HSTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MehreenHamraz/huger/HSTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HSTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HSTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITests" />
+      <option name="MAIN_CLASS_NAME" value="APITests.PetAPITest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest.verify_addNewPet_returnsCorrectResults (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HSTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITests" />
+      <option name="MAIN_CLASS_NAME" value="APITests.PetAPITest" />
+      <option name="METHOD_NAME" value="verify_addNewPet_returnsCorrectResults" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetAPITest.verify_getCountriesRdesponse_withInvalidRequest_returnsCorrectResults" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HSTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITests" />
+      <option name="MAIN_CLASS_NAME" value="APITests.PetAPITest" />
+      <option name="METHOD_NAME" value="verify_getCountriesRdesponse_withInvalidRequest_returnsCorrectResults" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/MehreenHamraz/huger/HSTest/testng.xml" />
+      <item itemvalue="TestNG.PetAPITest" />
+      <item itemvalue="TestNG.PetAPITest.verify_addNewPet_returnsCorrectResults (1)" />
+      <item itemvalue="TestNG.PetAPITest.verify_getCountriesRdesponse_withInvalidRequest_returnsCorrectResults" />
+      <item itemvalue="TestNG.C:/Users/MehreenHamraz/huger/HSTest/testng.xml (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/MehreenHamraz/huger/HSTest/testng.xml (1)" />
+        <item itemvalue="TestNG.PetAPITest" />
+        <item itemvalue="TestNG.C:/Users/MehreenHamraz/huger/HSTest/testng.xml" />
+        <item itemvalue="TestNG.PetAPITest.verify_getCountriesRdesponse_withInvalidRequest_returnsCorrectResults" />
+        <item itemvalue="TestNG.PetAPITest.verify_addNewPet_returnsCorrectResults (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bad3dd79-04de-405e-9e09-216e123d58f3" name="Default Changelist" comment="" />
+      <created>1594037123434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594037123434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="32" key="#C:/Users/MehreenHamraz/huger/HSTest/testng.xml" timestamp="1594041282785">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="32" key="#C:/Users/MehreenHamraz/huger/HSTest/testng.xml/0.0.1366.728@0.0.1366.728" timestamp="1594041282785" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594041273240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594041273240" />
+    <state x="449" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594039100877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1594039100877" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594041259900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1594041259900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1594042233751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594042233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1594042233751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594042233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1594042233751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594042233751" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1594042233751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594042233751" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1594040515927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594040515927" />
+  </component>
+</project>
